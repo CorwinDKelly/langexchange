@@ -10,6 +10,7 @@ header{background-color: #282c34;}
   padding: 20px 0 25px;
 }
 .site-title {
+  text-align: center;
   color: rgb(206, 145, 145);
   font-size: 60px;
 }
